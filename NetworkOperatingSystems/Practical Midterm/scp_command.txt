@@ -1,0 +1,1 @@
+scp toPi.txt iawd1@192.168.1.111:/home/iawd1

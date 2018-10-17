@@ -1,0 +1,9 @@
+total 28
+drwxr-xr-x  2 wu000218 wu000218 4096 Mar 12 11:47 .
+drwxr-xr-x 63 root     root     4096 Feb  2 14:11 ..
+-rw-------  1 wu000218 wu000218   30 Mar 12 11:45 .bash_history
+-rw-r--r--  1 wu000218 wu000218  220 May 15  2017 .bash_logout
+-rw-r--r--  1 wu000218 wu000218 3523 Nov 28 20:22 .bashrc
+-rw-r--r--  1 wu000218 wu000218    0 Mar 12 11:47 mt1.txt
+-rw-r--r--  1 wu000218 wu000218  675 May 15  2017 .profile
+-rw-r--r--  1 wu000218 wu000218   18 Mar 12 11:45 randywu.txt

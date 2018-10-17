@@ -1,0 +1,72 @@
+-- Task 1 Raspberry Pi--
+
+What command do you use to get your ip address?
+ifconfig or ip adress
+
+What is the ip address of your laptop?
+10.50.11.255
+
+What is the name of the active connection?
+eth0
+
+What is the Mac address of your raspberry pi ethernet connection?
+b8:27:eb:48:cf:9c
+
+
+-- Task 1 Laptop --
+
+What command do you use to get your ip address?
+ifconfig
+
+What is the ip address of your laptop?
+10.70.160.33
+
+What is the name of the active connection?
+en0
+
+What is the Mac address of your raspberry pi ethernet connection?
+8c:85:90:24:49:01
+
+
+-- Task 1 Partner --
+
+What is the host name of your lab partner?
+omea0024
+
+What is the ip address of your lab partner?
+10.50.11.55
+
+What is the Mac address of your lab partner?
+b8:27:eb:c1:0e:d9
+
+
+-- Task 2 --
+
+-- Ping Laptop --
+
+ping 10.70.160.33
+64 bytes from 10.70.160.33: icmp_seq=1 ttl=62 time=2.29 ms
+
+-- Pi of your partner using the pi partner’s host Fully Qualified Host Name (FQDN)--
+
+ping omea0024.ottawa.ad.algonquincollege.com
+64 bytes from omea0024.ottawa.ad.algonquincollege.com (10.50.11.55): icmp_seq=1 ttl=64 time=0.634 ms
+
+-- Pi of your partner using the partner's pi ip address--
+
+ping 10.50.11.55
+64 bytes from 10.50.11.55: icmp_seq=1 ttl=64 time=1.22 ms
+
+-- Ping localhost--
+
+ping localhost
+64 bytes from localhost (::1): icmp_seq=1 ttl=64 time=0.117 ms
+
+-- What is IP address returned for www.algonquincollege.com?--
+54.86.119.60
+
+-- Who owns the IP address? --
+Amazon Technologies Inc. AMAZON-2011L
+
+-- What class is this IP --
+Class A

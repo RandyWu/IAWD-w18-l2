@@ -1,0 +1,20 @@
+total 28
+4 drwxr-xr-x  7 root root 4096 Feb  5 11:08 .
+4 drwxr-xr-x 22 root root 4096 Jan 31 19:09 ..
+4 drwxr-xr-x  2 iawd1 root 4096 Feb  5 11:08 iawd1
+4 drwxr-xr-x  2 iawd2 root 4096 Feb  5 11:08 iawd2
+4 drwxr-xr-x  2 iawd3 root 4096 Feb  5 11:08 iawd3
+4 drwxr-xr-x 26 pi   pi   4096 Feb  5 11:53 pi
+4 drwxr-xr-x  2 randy root 4096 Feb  5 11:08 randy
+total 8
+4 drwxr-xr-x 2 pi    pi     4096 Feb  4 17:08 .
+4 drwxr-xr-x 4 pi    pi     4096 Feb  5 10:53 ..
+0 --w-rwxr-- 1 iawd2 group1    0 Feb  4 17:08 file2-1.txt
+0 -r-xrw-rwx 1 iawd3 group2    0 Feb  4 17:08 file2-2.txt
+0 ---x-w-r-- 1 iawd3 group3    0 Feb  4 17:08 file2-3.txt
+total 20
+4 drwxr-xr-x 2 pi    pi     4096 Feb  5 10:53 .
+4 drwxr-xr-x 4 pi    pi     4096 Feb  5 10:53 ..
+4 -rw-r--r-- 1 pi    pi       14 Feb  4 17:05 file1-1.txt
+4 -rwxrw---x 1 iawd1 group2   14 Feb  4 17:06 file1-2.txt
+4 -r---w-rw- 1 iawd3 group3   14 Feb  4 17:06 file1-3.txt

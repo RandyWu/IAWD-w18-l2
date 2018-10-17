@@ -1,0 +1,10 @@
+/home/wu000218
+.
+├── midtermExam
+├── midtermlaptop.txt
+├── mt1.txt
+├── mt2.txt
+├── mt.txt
+└── randywu.txt
+
+1 directory, 5 files

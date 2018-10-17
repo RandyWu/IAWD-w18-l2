@@ -1,0 +1,128 @@
+Randy Wu 040914510
+
+CST 8254 Lab 11 Part 1
+
+Task 1
+------
+
+1. What are the IP address listed for google.ca?
+
+Address: 172.217.0.227
+
+2. What are the name servers listed for this domain name?
+
+google.com	nameserver = ns1.google.com.
+google.com	nameserver = ns4.google.com.
+google.com	nameserver = ns2.google.com.
+google.com	nameserver = ns3.google.com.
+
+3. What is the start of authority information listed for this zone?
+
+Non-authoritative answer:
+google.com
+	origin = ns1.google.com
+	mail addr = dns-admin.google.com
+	serial = 191243629
+	refresh = 900
+	retry = 900
+	expire = 1800
+	minimum = 60
+
+4. What are the mail exchangers listed for this domain name?
+
+Non-authoritative answer:
+google.com	mail exchanger = 30 alt2.aspmx.l.google.com.
+google.com	mail exchanger = 10 aspmx.l.google.com.
+google.com	mail exchanger = 50 alt4.aspmx.l.google.com.
+google.com	mail exchanger = 20 alt1.aspmx.l.google.com.
+google.com	mail exchanger = 40 alt3.aspmx.l.google.com.
+
+
+Task 2
+------
+
+1. What are the IP address listed for algonquin-iawd.com?
+
+Address: 149.56.204.160
+
+2. What are the name servers listed for this domain name?
+
+Non-authoritative answer:
+algonquin-iawd.com	nameserver = ns1.hebergementsolutions.com.
+algonquin-iawd.com	nameserver = ns2.hebergementsolutions.com.
+
+3. What is the start of authority information listed for this zone?
+
+Non-authoritative answer:
+algonquin-iawd.com
+	origin = ns1.hebergementsolutions.com
+	mail addr = contact.hebergementsolutions.com
+	serial = 2018022600
+	refresh = 3600
+	retry = 7200
+	expire = 1209600
+	minimum = 86400
+
+4. What are the mail exchangers listed for this domain name?
+
+Non-authoritative answer:
+algonquin-iawd.com	mail exchanger = 0 algonquin-iawd.com.
+
+
+Task 3
+------
+
+1. What are the IP address listed for algonquincollege.com?
+
+Address: 54.86.119.60
+
+2. What are the name servers listed for this domain name?
+
+Non-authoritative answer:
+algonquincollege.com	nameserver = ns3.algonquincollege.com.
+algonquincollege.com	nameserver = ns5.algonquincollege.com.
+
+3. What is the start of authority information listed for this zone?
+
+Non-authoritative answer:
+algonquincollege.com
+	origin = ns5.algonquincollege.com
+	mail addr = fwadm.algonquincollege.com
+	serial = 2018032501
+	refresh = 3600
+	retry = 3600
+	expire = 1209600
+	minimum = 3600
+
+4. What are the mail exchangers listed for this domain name?
+
+Non-authoritative answer:
+algonquincollege.com	mail exchanger = 10 algonquincollege-com.mail.protection.outlook.com.
+
+
+Task 4
+------
+
+1. What is the IP address listed?
+
+Address: 149.56.204.160
+
+2. What is the first com name server IP address returned?
+
+com	nameserver = a.gtld-servers.net.
+
+3. What are the DNS servers listed for the algonquin-iawd.com domain.
+
+Authoritative answers can be found from:
+algonquin-iawd.com	nameserver = ns1.hebergementsolutions.com.
+algonquin-iawd.com	nameserver = ns2.hebergementsolutions.com.
+ns1.hebergementsolutions.com	internet address = 149.56.204.160
+ns2.hebergementsolutions.com	internet address = 158.69.63.49
+
+4. What is the IP returned?
+
+Address: 149.56.204.160
+
+5. Is it the same IP as the IP returned step 1?
+
+Yes it is

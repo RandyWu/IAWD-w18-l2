@@ -1,0 +1,30 @@
+cst8254
+├── backup
+├── lab3-2.txt
+├── lab3-3.txt
+├── lab3.py
+├── linux
+│   ├── labs
+│   │   ├── Lab1
+│   │   ├── Lab2
+│   │   └── Lab3
+│   │       ├── lab3-1.txt
+│   │       └── lab3-2.txt
+│   └── lectures
+│       ├── Week1
+│       ├── Week2
+│       └── Week3
+├── python
+│   ├── labs
+│   │   ├── Lab1
+│   │   ├── Lab2
+│   │   └── Lab3
+│   │       ├── lab3-1.txt
+│   │       └── lab3-2.txt
+│   └── lectures
+│       ├── Week1
+│       ├── Week2
+│       └── Week3
+└── wu000218.txt
+
+19 directories, 8 files

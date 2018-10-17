@@ -1,0 +1,42 @@
+Practical Mid Term W2018
+-------------------------
+
+1 . scp randywu.txt wu000218@10.50.11.32:/home/wu000218
+
+2. passwd
+
+3. ls - la  OR ls -las
+
+4. ls -la > mt.txt
+
+5. -rw-r--r-- 1 wu000218 wu000218   18 Mar 12 11:45 randywu.txt
+
+6. pwd
+
+7. chown wu000218:cst8254 randywu.txt
+
+8. I was not able to change the group ownership of randywu.txt because I was not apart of the group cst8254.
+   Hence I cannot change the group of the file to a group I do no belong too.
+
+   Here is the command to create the new group and add a user to the group:
+   groupadd cst8254
+   usermod -a -G cst8254 wu000218
+
+   The command went through because I was the owner of the randywu.txt and part of the group
+   So I was able to change the permissions.
+
+9. mkdir midtermExam
+
+10. drwxr-xr-x  2 wu000218 wu000218 4096 Mar 12 11:55 midtermExam
+
+11. netstat -at
+
+12. netstat -at > mt2.txt
+
+13. sftp wu000218@10.50.11.32
+
+14. put midtermlaptop.txt
+
+15. The pwd>mt.txt;tree -l>>mt.txt command puts the output of pwd (the present working directory)
+    into a file called mt.txt, then tree -l shows the file hierachy of the pwd and the number of
+    files and directories, and then appends it to mt.txt.

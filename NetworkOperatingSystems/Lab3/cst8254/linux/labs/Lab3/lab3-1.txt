@@ -1,0 +1,12 @@
+CST8254_Lab3
+Desktop
+Documents
+Downloads
+lab3-1.txt
+Music
+oldconffiles
+Pictures
+Public
+python_games
+Templates
+Videos
